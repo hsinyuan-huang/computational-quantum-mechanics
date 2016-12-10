@@ -8,4 +8,4 @@ This is a project I've done when taking Quantum Mechanics.
   which can solve for the ground state wave function of any dimensional multi-Boson system.  
   
 For the code usage, please see FGH_and_QMC.pdf for more details.  
-Eigen library is used in FGH/ for singular value decomposition.
+[Eigen library](http://eigen.tuxfamily.org/) is used in FGH/ for singular value decomposition.
