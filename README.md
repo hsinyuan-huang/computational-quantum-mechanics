@@ -10,5 +10,5 @@ This is a project I've done when taking Quantum Mechanics.
 For the code usage, please see FGH_and_QMC.pdf for more details.  
 [Eigen library](http://eigen.tuxfamily.org/) is used in FGH/ for singular value decomposition.  
 
-A 3D visualization for the calculation process can be found here:  
+A 3D visualization for the Quantum Monte Carlo can be found here:  
 https://www.youtube.com/watch?v=tgJXdQFXmN0
